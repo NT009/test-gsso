@@ -1,3 +1,10 @@
+# Add .env file in root with below credentials
+
+```bash
+REACT_APP_GOOGLE_CLIENT_ID=your_google_Cloud_id
+
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
